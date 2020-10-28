@@ -1,4 +1,4 @@
-## Bringing a first principle and visionary approach to the table.
+## Bringing an elementary and far-sighted approach to the team.
 
 ## Hey :wave:, Nice to meet you, I am a CSE Sophomore at IIT Guwahati.
 
