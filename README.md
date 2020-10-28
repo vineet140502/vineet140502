@@ -1,11 +1,13 @@
-# Bringing a first principle and visionary approach to the table.
-## Glad you stopped by...Hi wave I am CSE Sophomore at IIT Guwahati.
-nerd_faceLove to work alongside like minded people enthusaistic about AI, Ar/VR or any other cool tech.
+## Bringing a first principle and visionary approach to the table.
 
-telescope Firmly belive that Deep Reinforcement Learning can help in achieving AGI.
+## Hey :wave:, Nice to meet you, I am a CSE Sophomore at IIT Guwahati.
 
-monocle_faceLike to stay updated about the advancements in IT Industry.
+:nerd_face: Love to work alongside like-minded people, passionate about AI & excited by XR.
 
-👨🏻‍✈️ Looking to collaborate on any Deep Learning or Augmented Reality Project.
+:telescope: Firmly belive that AI is the new Electricity.
 
-mailbox Reach out to me on Linkedin. https://www.linkedin.com/in/varenyambakshi
+:male_detective: Like to stay updated about the advancements in IT Industry.
+
+:office_worker: Looking to collaborate on any Deep Learning or Extended Reality Project.
+
+:mailbox_with_no_mail: Reach out to me on [Linkedin](https://www.linkedin.com/in/vineetagarwal99).
