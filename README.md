@@ -8,6 +8,6 @@
 
 :nerd_face: Love to work alongside like-minded people, passionate about AI & excited by XR.
 
-:office_worker: Looking to collaborate on any Deep Learning or Extended Reality Project.
+:office_worker: Looking to collaborate on any Data Science or Machine Learning Project.
 
 :mailbox_with_no_mail: Reach out to me on [Linkedin](https://www.linkedin.com/in/vineetagarwal99).
