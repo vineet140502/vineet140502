@@ -4,7 +4,7 @@
 
 :telescope: Firmly belive that AI is the new Electricity.
 
-:male_detective: Like to stay updated about the advancements in IT Industry.
+:male_detective: Like to stay updated about the advancements in Industry 4.0.
 
 :nerd_face: Love to work alongside like-minded people, passionate about AI & excited by XR.
 
